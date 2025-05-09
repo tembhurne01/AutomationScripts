@@ -5,3 +5,5 @@ Selenium with java automation scripts
 2. Zoom-in Zoom-out.
 3. Finding all the links present in webpage
 4. Navigational Commands in selenium
+5. Get Methods
+6. Wait Mthods - 1.Implicit Wait
